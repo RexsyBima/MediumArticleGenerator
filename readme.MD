@@ -26,6 +26,7 @@ This Python program allows you to perform Q&A (Question and Answer) operations b
     ```
 
 ## Usage
+a. in constants.py, fill your openai, and huggingface api key
 
 1. **Prepare Subtitles:**
     - Ensure your subtitle files are in a supported format (e.g., .vtt).
